@@ -1,0 +1,117 @@
+.body {
+    font-family: Georgia;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: space-between;
+    margin: 10px;
+}
+
+.h1 {
+    color: brown;
+    background-color: blueviolet;
+    href: ="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
+}
+
+.h2 {
+    /*The animation code*/
+    25% {
+        background-color: blueviolet;
+    }
+    25% {
+        background-color: blueviolet;
+    }
+    25% {
+        background-color: blueviolet
+    }
+    25% {
+        background-color: blueviolet;
+    }
+}
+
+
+/*The element to apply the animation to /*
+ div{
+
+    width:100px;
+    height:100px;
+    background-color:brown;
+    animation-name: inventation;
+    animation-duration:5sec;
+ }
+
+
+  .div {
+
+    color:brown;
+    width: 100 px;
+    height: 100px;
+    font-size: 16px;
+    border-radius: 10px;
+    font-weight: 1000;
+    border: 1px solid #fff;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+
+div {
+
+
+   transition:width 4s,height 2s, transform 2s;
+}
+
+
+ .h3 {
+
+  color:brown;
+  background-color:blueviolet;
+  weight: bold;
+  width:100px;
+  height:100px
+
+}
+
+
+.h4 {
+
+  color: brown;
+  background-color:blueviolet;
+  weight: bold;
+  width:100px;
+  height:100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
